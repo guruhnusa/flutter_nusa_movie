@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368374617918",
+    "project_id": "nusa-movie",
+    "storage_bucket": "nusa-movie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368374617918:android:664940e161c4c22ab6be6f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_nusa_movie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6rOyDdlqSFa2U0hT8JdXS_RXc8JJi8UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
